@@ -2,6 +2,9 @@
 This Program allows you to Manage the Currency Balances of Multiple Players in a Monopoly game. It provides options to add money, remove money, transfer money between players, and show the current balance of a player.
 
 # - How to Use:
+
+Install it From here: [All Releases](https://github.com/MubyCO/Monopoly-Currency-Manager/releases/)
+
 Compile the Java program using any Java compiler.
 Run the compiled program (MonopolyCurrencyMain.class) using the Java Virtual Machine (JVM).
 Upon running the program, you will be prompted to enter the number of players participating in the game. Enter the desired number and provide the names of each player as prompted.
@@ -62,7 +65,7 @@ Enter player number (1-2): 2
 Amount: 1500.
 ```
 # - Screenshots:
-![Screenshot 2023-06-13 155446](https://github.com/MubyCO/Monopoly-Currency-Manager/assets/80380401/0331533e-1a75-46c2-a7d9-8e4fe4278245)
+![Screenshot](https://github.com/MubyCO/Monopoly-Currency-Manager/assets/80380401/0331533e-1a75-46c2-a7d9-8e4fe4278245)
 
 # - Notes:
 - The initial balance for each player is set to 1500.
